@@ -1,0 +1,7 @@
+D:\DomashnaRabota\MultArr\04\bin\Debug\04.exe.config
+D:\DomashnaRabota\MultArr\04\bin\Debug\04.exe
+D:\DomashnaRabota\MultArr\04\bin\Debug\04.pdb
+D:\DomashnaRabota\MultArr\04\obj\Debug\04.csproj.AssemblyReference.cache
+D:\DomashnaRabota\MultArr\04\obj\Debug\04.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\MultArr\04\obj\Debug\04.exe
+D:\DomashnaRabota\MultArr\04\obj\Debug\04.pdb
